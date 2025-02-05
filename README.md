@@ -15,3 +15,7 @@ touch .env
 echo 'DISC_TOKEN=$YOUR_APP_DISCORD_TOKEN' >> .env
 
 $YOUR_PYTHON_COMMAND bot_runner.py
+
+## Log
+
+Adding db functionality
