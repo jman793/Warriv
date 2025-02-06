@@ -16,6 +16,13 @@ echo 'DISC_TOKEN=$YOUR_APP_DISCORD_TOKEN' >> .env
 
 $YOUR_PYTHON_COMMAND bot_runner.py
 
+### To Run With Docker
+
+docker build -t $TAG .
+
+docker run $TAG
+
 ## Log
 
 Adding db functionality
+
