@@ -25,4 +25,5 @@ docker run $TAG
 ## Log
 
 Adding db functionality
+Adding command for upcoming features
 
